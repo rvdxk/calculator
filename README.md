@@ -28,9 +28,9 @@ This calculator is built with Java Swing and requires a Java Runtime Environment
 A Java development environment such as IntelliJ IDEA is recommended for compiling and running the code.
 
 ## How to Run
-Open the project in your Java development environment.
-Compile the Main.java file.
-Run the compiled program to launch the calculator GUI.
+Open the project in your Java development environment.<br>
+Compile the Main.java file.<br>
+Run the compiled program to launch the calculator GUI.<br>
 
 ## Screenshots
 ![Screenshot (64)](https://github.com/rvdxk/calculator/assets/136000622/4a9f559c-4f29-4280-8c14-48214912d166)
